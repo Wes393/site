@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<head>
+  <style>
+    header {
+    	text-align: upper left;
+        vertical-align: top;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://i.imgur.com/TwJl2Yp.jpg?3);
+      background-size: cover;
+      color: black;
+      max-height:210px;}
+      
+    h1 {
+    verticle-align:top;
+      font-size: 70px;
+      color:white;
+        margin: 0px 5px 0px 10px;}
+    img {
+  vertical-align: top;
+      margin: 5px 5px 0px 1000px;
+      border: 3px solid cyan;
+      border-radius: 0px;}
+      
+      h2 {font-size:30px;
+      text-align:right;
+      color:white;
+      }
+      a{color:white}
+      p{font-size:24px;
+      margin: 0px 230px 0px 0px;
+      background:black;
+      color:cyan;}
+      article {color:white;
+      background:black;
+      font-size:22px;}
+      
+  </style>
+</head>
+
+<body>
+  <header>
+  <h1> Weston Mulock </h1>
+  <h2>mupeauto@gmail.com <br   /> (719) 447 7350 <br /> <a href="www.linkedin.com/in/weston-james-mulock">linkedin</a>  </h2>
+  <img src=https://i.imgur.com/B1reDX9.jpg?1>
+  </header>
+    
+    <p>	"Wes Mulock is a Colorado Native currently residing in Colorado Springs with his wife Tori and their 2-year-old daughter Sky Alexis. His proffesional background in Automotive Performance includes a Master ASE Certification, 111 published technical articles, and a few world records that still stand. In Construction, Wes came into the industry as an entry-level temp laborer. Within a year he was a certified in Heavy Equipment Operation, Advanced Fall Protection Systems, and was promoted to Apprentice Carpenter at GE Johnson Construction. Before completing the aprenticeship, Wes took an opportunity to become Superintendent of a multi-family project that was over a year behind schedule when he arrived, yet his crew turned over the property a few weeks early and managed a profit in the end. However, the Construction industry is too dangerous and dishonest for a father/husband to make a career. So in order to better himself, broaden his skillset, and give his family the standard of living they deserve, he is currently pursuing an education in Software Engineering. When he's not spending time with the two beautiful ladies in his life, Wes has a passion for problem solving and enjoys working on his boosted Subaru BRZ and his LC'd Threadripper/5700XT PC." <br />
+    <br />
+    <article> "Im confident that Software Engineering will reopen some of the doors to opportunity, most of which have been slammed in my face. Years ago I made mistakes that I paid for heavily. Yet despite my debt to society being settled, I'm punished all over again every time I'm turned down for work because of my criminal history. And when I come home empty-handed to my wife and daughter, they too are being punished for my mistakes. Within one month, I was hired on the spot and then fired days later due to my background not just once, but three times. It was clear I needed to take a different approach..." <br /> 
+    <br /> Weston Mulock <article/> </p>
+    </body>
